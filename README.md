@@ -10,8 +10,6 @@ This project aims to predict Google stock prices using various machine learning 
 - [Models and Features](#models-and-features)
 - [Results](#results)
 - [Future Improvements](#fututure-improvements)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Overview
 
@@ -23,8 +21,7 @@ To run this project, you need to have Python installed along with the necessary 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/stock-price-prediction.git
-    cd stock-price-prediction
+    git clone https://github.com/will-foerster-portfolio/ML_StockPriceForcasting.git
     ```
 
 2. Install the required Python libraries:
