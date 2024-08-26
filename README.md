@@ -21,7 +21,7 @@ To run this project, you need to have Python installed along with the necessary 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/will-foerster-portfolio/ML_StockPriceForcasting.git
+    git clone [https://github.com/will-foerster-portfolio/ML_StockPriceForcasting.git](https://github.com/William-Foerster-Portfolio/ML_StockPriceForcasting.git)
     ```
 
 2. Install the required Python libraries:
