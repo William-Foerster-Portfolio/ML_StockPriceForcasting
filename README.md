@@ -70,4 +70,4 @@ The following deep learning models are implemented:
 To run the project, execute the main script. The script will load the data, compute features, train the models, and visualize the results:
 
 ```bash
-python main.py
+python Google_StockPredictionModel.ipynb
